@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Science enthusiast pursuing my Master's degree while gaining hands-on experience as a working student in Germany. My passion lies in exploring and implementing new technologies and tools to solve real-world problems.Currently pursuing my Master's in Data Science and a Working student in Germany, applying classroom knowledge to real projects.I have been actively working on integration of AI in Automation and learning Snowflake platform to create interactive Streamlit Applications.Actively working on Machine Learning and Data Science projects to improve my understanding of different Datasets.Experienced in Application development in Flutter and Android Studio
+I'm a Data Science enthusiast pursuing my Master's degree while gaining hands-on experience as a working student in Germany. My passion lies in exploring and implementing new technologies and tools to solve real-world problems. Currently pursuing my Master's in Data Science and applying classroom knowledge to real projects.I have been actively working on integration of AI in Automation and learning Snowflake platform to create interactive Streamlit Applications. Actively working on Machine Learning and Data Science projects to improve my understanding of different Datasets. Experienced in Application development in Flutter and Android Studio. 
 
 
 ## 🌐 Socials:
